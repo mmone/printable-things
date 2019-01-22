@@ -3,5 +3,6 @@ The design is based on the mechanical principle of a traditional wooden toy that
 
 More info about assembly and additional materials needed here on my blog: http://blog.mmone.de/2019/01/03/climbing-robot/
 
+![Climbing Robot](images/climbing-robot-photo.jpg)
 ![Climbing Robot](images/climbing-robot.png)
 ![Explosion Diagram](images/explosion-diagram.png)
