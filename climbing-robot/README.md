@@ -6,3 +6,4 @@ More info about assembly and additional materials needed here on my blog: http:/
 ![Climbing Robot](images/climbing-robot-photo.jpg)
 ![Climbing Robot](images/climbing-robot.png)
 ![Explosion Diagram](images/explosion-diagram.png)
+![Accessories](images/accessories.png)
